@@ -1,0 +1,1 @@
+require(["tether"],function(e){window.Tether=e}),define(["mdb"],function(){});

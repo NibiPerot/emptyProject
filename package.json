@@ -1,0 +1,21 @@
+{
+  "name": "creadorcampanas",
+  "version": "1.0.0",
+  "description": "Creador de Campañas para PI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.23.7",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.0",
+    "node-waves": "^0.7.6",
+    "pump": "^3.0.0"
+  }
+}
